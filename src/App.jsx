@@ -66,13 +66,13 @@ function App() {
       var name = "";
          switch(downloadCount)
         {
-           case 0: name = "정지호"; break;
-           case 1: name = "최성준"; break;
-           case 2: name = "최태원"; break;
-           case 3: name = "김동욱"; break;
-           case 4: name = "강준식"; break;           
-           case 5: name = "정한솔"; break;
-           case 6: name = "강문식"; break;
+           case 0: name = "정지호-인코"; break;
+           case 1: name = "최성준-인코"; break;
+           case 2: name = "최태원-인코"; break;
+           case 3: name = "김동욱-인코"; break;
+           case 4: name = "강준식-인코"; break;           
+           case 5: name = "정한솔-인코"; break;
+           case 6: name = "강문식-인코"; break;
         }
       
       console.log("downloadCount = " + downloadCount);
@@ -106,13 +106,13 @@ function App() {
       var name = "";
          switch(downloadCount)
         {
-           case 0: name = "정지호"; break;
-           case 1: name = "최성준"; break;
-           case 2: name = "최태원"; break;
-           case 3: name = "김동욱"; break;
-           case 4: name = "강준식"; break;
-           case 5: name = "정한솔"; break;
-           case 6: name = "강문식"; break;
+           case 0: name = "정지호-인코"; break;
+           case 1: name = "최성준-인코"; break;
+           case 2: name = "최태원-인코"; break;
+           case 3: name = "김동욱-인코"; break;
+           case 4: name = "강준식-인코"; break;
+           case 5: name = "정한솔-인코"; break;
+           case 6: name = "강문식-인코"; break;
         }
       
       console.log("downloadCount = " + downloadCount);
